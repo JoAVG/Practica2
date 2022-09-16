@@ -15,6 +15,3 @@ public class NumCapicua {
 
 //Complejidad Espacial = 1+1 = 2 "Se declararon 2 variables extras"
 //Complejidad Temporal = 1+1+(n(1+1+1))+1 = 3 + 3n = O(n) una complejidad Lineal.
-
-//Complejidad Espacial = 1+1 = 2 "Se declararon 2 variables extras"
-//Complejidad Temporal = 1+1+(n(1+1+1))+1 = 3 + 3n = O(n) una complejidad Lineal.
